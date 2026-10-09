@@ -1,0 +1,6 @@
+{
+  "first_unit_sine_coefficient": 1.0,
+  "second_unit_sine_coefficient": 1.0000000000000002,
+  "convention": "1/pi integral_0^2pi I(theta) sin(n theta) dtheta",
+  "phase_classification_unchanged": true
+}

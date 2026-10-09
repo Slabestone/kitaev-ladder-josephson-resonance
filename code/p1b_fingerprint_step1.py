@@ -59,8 +59,8 @@ def analyze_fingerprint(name, LM, mu, tperp):
 
     # 第一谐波 I1：J 的 sin(θ) 傅里叶系数（J 应为奇函数）
     J_odd = (J - J[::-1]) / 2  # 提取奇部
-    I1 = 2 * np.trapezoid(J_odd * np.sin(thetas), thetas) / np.pi
-    I2 = 2 * np.trapezoid(J_odd * np.sin(2 * thetas), thetas) / np.pi
+    I1 = np.trapezoid(J_odd * np.sin(thetas), thetas) / np.pi
+    I2 = np.trapezoid(J_odd * np.sin(2 * thetas), thetas) / np.pi
     print(f"  第一谐波 I1 = {I1:.4e} | 第二谐波 I2 = {I2:.4e}")
 
     # 周期性：J 的周期

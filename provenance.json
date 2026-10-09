@@ -109,7 +109,8 @@
     "fixed an explanatory current-sign comment",
     "made fingerprint failure return nonzero",
     "routed three plot exports to generated/",
-    "evaluated particle-hole exchange as an equivalent permutation and required its health check to pass"
+    "evaluated particle-hole exchange as an equivalent permutation and required its health check to pass",
+    "corrected diagnostic Fourier normalization to 1/pi over 0..2pi, removing an extra factor 2; phase classification and Hamiltonians unchanged"
   ],
   "hamiltonian_formulas_and_physical_parameters_changed": false
 }

@@ -2,7 +2,7 @@
 
 Research resources for **Resonant suppression of the π-type Josephson component in a Kitaev-ladder junction** (Cheng-Rong Xie, Hiroki Tsuchiura, Yukio Tanaka).
 
-The submission snapshot is `submission-2026-10-09`. This repository supplies selected finite-BdG and recursive-Green-function implementations, figure-generation scripts, numerical scan caches, and the eight figure exports used by the submission manuscript. It is not a complete archive of every original simulation output or every production workflow.
+The submission snapshot is `submission-2026-10-09.1`. This repository supplies selected finite-BdG and recursive-Green-function implementations, figure-generation scripts, numerical scan caches, and the eight figure exports used by the submission manuscript. It is not a complete archive of every original simulation output or every production workflow.
 
 ## Install and run
 
@@ -44,7 +44,7 @@ The author-developed BCLS/LUS integrated system, using multiple language-model s
 
 ## Citation and availability
 
-Cite Cheng-Rong Xie, *Selected code and numerical resources for resonant suppression of the π-type Josephson component in a Kitaev-ladder junction* (2026), GitHub release `submission-2026-10-09`:
-https://github.com/Slabestone/kitaev-ladder-josephson-resonance/releases/tag/submission-2026-10-09
+Cite Cheng-Rong Xie, *Selected code and numerical resources for resonant suppression of the π-type Josephson component in a Kitaev-ladder junction* (2026), GitHub release `submission-2026-10-09.1`:
+https://github.com/Slabestone/kitaev-ladder-josephson-resonance/releases/tag/submission-2026-10-09.1
 
 Public repository availability is distinct from a DOI archive. No DOI is assigned by this GitHub release. No reuse license has yet been selected by the authors.
