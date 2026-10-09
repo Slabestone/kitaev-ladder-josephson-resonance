@@ -1,0 +1,26 @@
+alignments: q=3 at mu=-0.051, q=4 at mu=0.949
+  [cache] phi/pi=0.333 Gamma=0.100 (161 pts) — hit
+calculating panel (c): phi/pi = 1.000, N_mu = 142
+  [cache] phi/pi=1.000 Gamma=0.100 (142 pts) — hit
+calculating panel (c): phi/pi = 0.667, N_mu = 142
+  [cache] phi/pi=0.667 Gamma=0.100 (142 pts) — hit
+calculating panel (c): phi/pi = 0.500, N_mu = 142
+  [cache] phi/pi=0.500 Gamma=0.100 (142 pts) — hit
+calculating panel (c): phi/pi = 0.333, N_mu = 142
+  [cache] phi/pi=0.333 Gamma=0.100 (142 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.025 (1 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.033 (1 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.041 (1 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.049 (1 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.057 (1 pts) — hit
+  [cache] phi/pi=1.000 Gamma=0.065 (1 pts) — hit
+Gamma^4 signed J1 (phi=pi, mu_N=0):
+  Gamma=0.0250, J1=5.057521e-08
+  Gamma=0.0330, J1=1.535133e-07
+  Gamma=0.0410, J1=3.656910e-07
+  Gamma=0.0490, J1=7.458089e-07
+  Gamma=0.0570, J1=1.365158e-06
+  Gamma=0.0650, J1=2.307559e-06
+Gamma^4 slope = 3.998
+saved: generated/fig5_resonance_diagnostic_v3.png
+saved: generated/fig5_resonance_diagnostic_v3.pdf

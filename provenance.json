@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-09",
+  "scope": "selected code and numerical resources, not a complete original simulation archive",
+  "files": [
+    {
+      "file": "code/general_kitaev_sns.py",
+      "source": "code/general_kitaev_sns.py",
+      "source_sha256": "21cb81fa3afcae59ab7abf16e7da7940fa7400864f577d473f8ea105383e763b"
+    },
+    {
+      "file": "code/p1b_sns.py",
+      "source": "code/p1b_sns.py",
+      "source_sha256": "5769ae5e63a733ee24180a28ad1888169b441ebbe046ff0a520e0395dce38b21"
+    },
+    {
+      "file": "code/p1b_rgf_py.py",
+      "source": "code/p1b_rgf_py.py",
+      "source_sha256": "d88876012534bb716623a2e2471831f0d837584f6bee0fd10612b3b8390a7dff"
+    },
+    {
+      "file": "code/mobius_recursive_green.py",
+      "source": "code/mobius_recursive_green.py",
+      "source_sha256": "3ccc617251854d471189f66f7d45dbd6756111c4ec5b9817fa28219a73c37b37"
+    },
+    {
+      "file": "code/josephsoncurrentladder.py",
+      "source": "code/josephsoncurrentladder.py",
+      "source_sha256": "ddad49bf90a866eba3e0d9ed1c39f9bae0f0b08cb2b114d22a051dab8fac6661"
+    },
+    {
+      "file": "code/p1b_fingerprint_step1.py",
+      "source": "code/p1b_fingerprint_step1.py",
+      "source_sha256": "f97d1c512a4ae500f8513cc9316026278ba6a0f2278e2e0ce4956edc3ca49e06"
+    },
+    {
+      "file": "code/make_fig5_resonance_diag_v3.py",
+      "source": "code/make_fig5_resonance_diag_v3.py",
+      "source_sha256": "77633de829a3018cd970246c3633c38385576852b3058d0ed75142358504e434"
+    },
+    {
+      "file": "code/make_fig6_ej_off_vs_res.py",
+      "source": "code/make_fig6_ej_off_vs_res.py",
+      "source_sha256": "fd1310d0220544d5fdf93159da9ff8b0fc9c13dc19a67fd5f6ed0b5b54383698"
+    },
+    {
+      "file": "code/make_fig7_clamping_v4.py",
+      "source": "code/make_fig7_clamping_v4.py",
+      "source_sha256": "d858e1f50ac19ce9346c5245759059f8ca90f41210a0e156d9c95e732d515967"
+    },
+    {
+      "file": "code/make_fig8_topophase.py",
+      "source": "Kitaev_ladder_ver2/code/make_fig8_topophase.py",
+      "source_sha256": "4c37549a78a520e5a21bc0d698c5bbcbfc56ac5b1592439b6960a9c8dee37914"
+    },
+    {
+      "file": "data/fig5_J1_cache.npz",
+      "source": "Kitaev_ladder_ver2/data/fig5_J1_cache.npz",
+      "source_sha256": "ba6c37aed96c9aab18459afe12e7c3c90c576942e1741843cbc48d4568c72db3"
+    },
+    {
+      "file": "data/general_kitaev_sns_cases.npz",
+      "source": "Kitaev_ladder_ver2/code/general_kitaev_sns_cases.npz",
+      "source_sha256": "076e10ff31571f289d62cb11c9a1bb93fe68a0566e90c32b0e07a2d35914b7b2"
+    },
+    {
+      "file": "figures/EJ_off_vs_res.png",
+      "source": "submission figure export",
+      "source_sha256": "700d8f7633aac6e48229e1f08cc13b00ffc031909c6412cc33d09a7cc69921c6"
+    },
+    {
+      "file": "figures/SIS_junction1.png",
+      "source": "submission figure export",
+      "source_sha256": "b60caa31396bbe0f86cddc0243fb2ce5b903233eb3fbf90192d4c18caab871f0"
+    },
+    {
+      "file": "figures/l4mu0.png",
+      "source": "submission figure export",
+      "source_sha256": "9542c0cdf30618929b2594cc7dc0b26edc65d02b046b0d39325848bfd97c5aa6"
+    },
+    {
+      "file": "figures/topophase.png",
+      "source": "submission figure export",
+      "source_sha256": "036db874012c22c272e472c1661ba65438a52bdf38a656aba7564b007f049248"
+    },
+    {
+      "file": "figures/resonance_diagnostic.png",
+      "source": "submission figure export",
+      "source_sha256": "dc25a297de08171da13bc5fe381fdf08a956775c0e88d5fe9ff3592525c03ef2"
+    },
+    {
+      "file": "figures/l5mu1.png",
+      "source": "submission figure export",
+      "source_sha256": "a88cef1e9b6cbdfd8c750791348ef012f69889c3ecf9dbc5583f33ea7432708f"
+    },
+    {
+      "file": "figures/currentphase_1.png",
+      "source": "submission figure export",
+      "source_sha256": "81ba729a80ede4e367fa0374a6a28eef24276dfd19f2876fb7fa9ee2c5007b77"
+    },
+    {
+      "file": "figures/fig-clamping-mechanism.png",
+      "source": "submission figure export",
+      "source_sha256": "094ff29cc0bc7fba6e2c873f78a2b5802362cc89f1c50aba5daa3ea93500e87c"
+    }
+  ],
+  "public_copy_changes": [
+    "removed obsolete absolute import path",
+    "updated deprecated trapezoidal integration name",
+    "fixed an explanatory current-sign comment",
+    "made fingerprint failure return nonzero",
+    "routed three plot exports to generated/",
+    "evaluated particle-hole exchange as an equivalent permutation and required its health check to pass"
+  ],
+  "hamiltonian_formulas_and_physical_parameters_changed": false
+}

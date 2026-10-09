@@ -1,0 +1,218 @@
+{
+  "python": "3.13",
+  "syntax_checked": 10,
+  "core_implementations_unchanged": true,
+  "numeric_arrays": {
+    "fig5_J1_cache.npz": {
+      "mus_c664ef415dab290e": {
+        "shape": [
+          161
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_c664ef415dab290e": {
+        "shape": [
+          161
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_3efdd4ba9c29eea6": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_3efdd4ba9c29eea6": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_83fff7c91ecaa1f1": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_83fff7c91ecaa1f1": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_37c4e1c2c1badee6": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_37c4e1c2c1badee6": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_c433704d002def00": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_c433704d002def00": {
+        "shape": [
+          142
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_0d06109dc5a50c81": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_0d06109dc5a50c81": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_9d80661d5608ed8a": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_9d80661d5608ed8a": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_7614a2794b3c7beb": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_7614a2794b3c7beb": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_49514ecc9dd3d9d7": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_49514ecc9dd3d9d7": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_7db4e1846ff151ca": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_7db4e1846ff151ca": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "mus_ff57fbad4caf911b": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1_ff57fbad4caf911b": {
+        "shape": [
+          1
+        ],
+        "dtype": "float64",
+        "finite": true
+      }
+    },
+    "general_kitaev_sns_cases.npz": {
+      "theta": {
+        "shape": [
+          201
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "E1": {
+        "shape": [
+          201
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J1": {
+        "shape": [
+          201
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "E2": {
+        "shape": [
+          201
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "J2": {
+        "shape": [
+          201
+        ],
+        "dtype": "float64",
+        "finite": true
+      },
+      "th_min1": {
+        "shape": [],
+        "dtype": "float64",
+        "finite": true
+      },
+      "th_min2": {
+        "shape": [],
+        "dtype": "float64",
+        "finite": true
+      }
+    }
+  },
+  "fingerprint_cases_passed": 2,
+  "figure_generators_run": [
+    "make_fig5_resonance_diag_v3.py",
+    "make_fig6_ej_off_vs_res.py",
+    "make_fig7_clamping_v4.py",
+    "make_fig8_topophase.py"
+  ],
+  "scope": "selected cases and figure-generator execution; not full phase-diagram reproduction"
+}
