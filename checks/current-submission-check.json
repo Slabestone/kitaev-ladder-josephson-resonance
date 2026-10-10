@@ -1,0 +1,23 @@
+{
+  "current_figures": [
+    "SIS_junction1.png",
+    "fig2_phases_largefont.pdf",
+    "fig3_off_cpr_largefont.pdf",
+    "fig4_resonance_energy_largefont.pdf",
+    "fig5_clamping_largefont.pdf",
+    "fig6_topology_largefont.pdf",
+    "fig7_res_cpr_largefont.pdf"
+  ],
+  "count": 7,
+  "phase_zero_baseline_verified": true,
+  "old_scan_cache_unchanged": true,
+  "original_schematic_unchanged": true,
+  "release": "submission-2026-10-10",
+  "python_scripts_syntax_checked": 17,
+  "fingerprint_cases_passed": 2,
+  "general_phi_cases": 51,
+  "detuned_cases": 30,
+  "projection_cases": 18,
+  "symbolic_cos_coefficient_verified": true,
+  "all_six_redraws_render_identically": true
+}

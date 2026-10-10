@@ -1,0 +1,200 @@
+[
+  {
+    "lead": 3,
+    "s": 0.5,
+    "r": 0.08,
+    "projection_norm": 0.03472381879492138,
+    "hamiltonian_error": 9.60381852990253e-05,
+    "interface_error": 0.0021367634353883975,
+    "scaled_projection": 0.43404773493651727,
+    "scaled_hamiltonian": 0.015005966452972702,
+    "scaled_interface": 0.026709542942354968
+  },
+  {
+    "lead": 3,
+    "s": 0.5,
+    "r": 0.04,
+    "projection_norm": 0.01733088989793037,
+    "hamiltonian_error": 1.2001198320681015e-05,
+    "interface_error": 0.0005339387183478595,
+    "scaled_projection": 0.43327224744825926,
+    "scaled_hamiltonian": 0.007500748950425634,
+    "scaled_interface": 0.013348467958696486
+  },
+  {
+    "lead": 3,
+    "s": 0.5,
+    "r": 0.02,
+    "projection_norm": 0.00866155274845716,
+    "hamiltonian_error": 1.500037486890815e-06,
+    "interface_error": 0.0001334687873905405,
+    "scaled_projection": 0.433077637422858,
+    "scaled_hamiltonian": 0.0037500937172270377,
+    "scaled_interface": 0.006673439369527024
+  },
+  {
+    "lead": 3,
+    "s": 0.8,
+    "r": 0.08,
+    "projection_norm": 0.024147706027580526,
+    "hamiltonian_error": 7.398811265598104e-05,
+    "interface_error": 0.0022179337831334193,
+    "scaled_projection": 0.3018463253447566,
+    "scaled_hamiltonian": 0.011560642602497038,
+    "scaled_interface": 0.02772417228916774
+  },
+  {
+    "lead": 3,
+    "s": 0.8,
+    "r": 0.04,
+    "projection_norm": 0.012018439827441812,
+    "hamiltonian_error": 9.224114690112113e-06,
+    "interface_error": 0.0005530113128044478,
+    "scaled_projection": 0.3004609956860453,
+    "scaled_hamiltonian": 0.005765071681320071,
+    "scaled_interface": 0.013825282820111194
+  },
+  {
+    "lead": 3,
+    "s": 0.8,
+    "r": 0.02,
+    "projection_norm": 0.006002304244717633,
+    "hamiltonian_error": 1.1522534760281522e-06,
+    "interface_error": 0.00013816097648074695,
+    "scaled_projection": 0.30011521223588167,
+    "scaled_hamiltonian": 0.0028806336900703802,
+    "scaled_interface": 0.006908048824037347
+  },
+  {
+    "lead": 6,
+    "s": 0.5,
+    "r": 0.08,
+    "projection_norm": 0.034723943580041605,
+    "hamiltonian_error": 9.603804650787923e-05,
+    "interface_error": 0.002136765871763842,
+    "scaled_projection": 0.43404929475052006,
+    "scaled_hamiltonian": 0.01500594476685613,
+    "scaled_interface": 0.026709573397048027
+  },
+  {
+    "lead": 6,
+    "s": 0.5,
+    "r": 0.04,
+    "projection_norm": 0.017330893795662498,
+    "hamiltonian_error": 1.2001197239593526e-05,
+    "interface_error": 0.0005339387563140467,
+    "scaled_projection": 0.4332723448915624,
+    "scaled_hamiltonian": 0.007500748274745953,
+    "scaled_interface": 0.013348468907851168
+  },
+  {
+    "lead": 6,
+    "s": 0.5,
+    "r": 0.02,
+    "projection_norm": 0.008661552870249086,
+    "hamiltonian_error": 1.500037478501533e-06,
+    "interface_error": 0.0001334687879841679,
+    "scaled_projection": 0.43307764351245426,
+    "scaled_hamiltonian": 0.0037500936962538323,
+    "scaled_interface": 0.006673439399208395
+  },
+  {
+    "lead": 6,
+    "s": 0.8,
+    "r": 0.08,
+    "projection_norm": 0.024147726106652383,
+    "hamiltonian_error": 7.398808781930494e-05,
+    "interface_error": 0.0022179339092094144,
+    "scaled_projection": 0.30184657633315476,
+    "scaled_hamiltonian": 0.011560638721766396,
+    "scaled_interface": 0.02772417386511768
+  },
+  {
+    "lead": 6,
+    "s": 0.8,
+    "r": 0.04,
+    "projection_norm": 0.01201844045086511,
+    "hamiltonian_error": 9.224114498285085e-06,
+    "interface_error": 0.0005530113147561599,
+    "scaled_projection": 0.3004610112716277,
+    "scaled_hamiltonian": 0.005765071561428178,
+    "scaled_interface": 0.013825282868903997
+  },
+  {
+    "lead": 6,
+    "s": 0.8,
+    "r": 0.02,
+    "projection_norm": 0.006002304264168188,
+    "hamiltonian_error": 1.152253474534575e-06,
+    "interface_error": 0.00013816097651011208,
+    "scaled_projection": 0.3001152132084094,
+    "scaled_hamiltonian": 0.0028806336863364374,
+    "scaled_interface": 0.006908048825505604
+  },
+  {
+    "lead": 10,
+    "s": 0.5,
+    "r": 0.08,
+    "projection_norm": 0.03472394358004095,
+    "hamiltonian_error": 9.60380465078161e-05,
+    "interface_error": 0.0021367658717627662,
+    "scaled_projection": 0.4340492947505119,
+    "scaled_hamiltonian": 0.015005944766846266,
+    "scaled_interface": 0.02670957339703458
+  },
+  {
+    "lead": 10,
+    "s": 0.5,
+    "r": 0.04,
+    "projection_norm": 0.017330893795663722,
+    "hamiltonian_error": 1.200119723957611e-05,
+    "interface_error": 0.0005339387563134229,
+    "scaled_projection": 0.43327234489159305,
+    "scaled_hamiltonian": 0.007500748274735068,
+    "scaled_interface": 0.013348468907835571
+  },
+  {
+    "lead": 10,
+    "s": 0.5,
+    "r": 0.02,
+    "projection_norm": 0.00866155287024907,
+    "hamiltonian_error": 1.5000374784509117e-06,
+    "interface_error": 0.0001334687879843411,
+    "scaled_projection": 0.4330776435124535,
+    "scaled_hamiltonian": 0.003750093696127279,
+    "scaled_interface": 0.006673439399217055
+  },
+  {
+    "lead": 10,
+    "s": 0.8,
+    "r": 0.08,
+    "projection_norm": 0.02414772610665253,
+    "hamiltonian_error": 7.398808781932984e-05,
+    "interface_error": 0.0022179339092108737,
+    "scaled_projection": 0.3018465763331566,
+    "scaled_hamiltonian": 0.011560638721770286,
+    "scaled_interface": 0.027724173865135922
+  },
+  {
+    "lead": 10,
+    "s": 0.8,
+    "r": 0.04,
+    "projection_norm": 0.012018440450865597,
+    "hamiltonian_error": 9.224114498334078e-06,
+    "interface_error": 0.0005530113147560363,
+    "scaled_projection": 0.30046101127163993,
+    "scaled_hamiltonian": 0.005765071561458798,
+    "scaled_interface": 0.013825282868900907
+  },
+  {
+    "lead": 10,
+    "s": 0.8,
+    "r": 0.02,
+    "projection_norm": 0.006002304264169161,
+    "hamiltonian_error": 1.152253474535526e-06,
+    "interface_error": 0.0001381609765110548,
+    "scaled_projection": 0.3001152132084581,
+    "scaled_hamiltonian": 0.002880633686338815,
+    "scaled_interface": 0.006908048825552739
+  }
+]

@@ -1,0 +1,14 @@
+Matplotlib is building the font cache; this may take a moment.
+OFF resonance
+  epsilon/t = 0.1000
+  t1/t      = 0.061803
+  t_perp/t  = 0.160000
+  t2/t      = 0.161803
+  t3/t      = 0.173205
+  selective corridor? True
+
+RESONANCE
+  t1=t2     = 0.100000
+  t3/t      = 0.141421
+  complete clamping? True
+All six revised publication assets generated; Fig. 1 preserved. Fourth-order slope: 3.9984035029021703

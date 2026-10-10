@@ -214,5 +214,6 @@
     "make_fig7_clamping_v4.py",
     "make_fig8_topophase.py"
   ],
-  "scope": "selected cases and figure-generator execution; not full phase-diagram reproduction"
+  "scope": "selected cases and figure-generator execution; not full phase-diagram reproduction",
+  "record_scope": "historical submission-2026-10-09.1 checks; current checks use the current-* filenames and added analytic JSON files"
 }

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "fig4_resonance_energy_largefont.pdf",
+    "render_shape": [
+      258,
+      710,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  },
+  {
+    "file": "fig3_off_cpr_largefont.pdf",
+    "render_shape": [
+      285,
+      340,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  },
+  {
+    "file": "fig6_topology_largefont.pdf",
+    "render_shape": [
+      185,
+      340,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  },
+  {
+    "file": "fig2_phases_largefont.pdf",
+    "render_shape": [
+      280,
+      710,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  },
+  {
+    "file": "fig5_clamping_largefont.pdf",
+    "render_shape": [
+      381,
+      710,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  },
+  {
+    "file": "fig7_res_cpr_largefont.pdf",
+    "render_shape": [
+      285,
+      340,
+      3
+    ],
+    "different_pixels": 0,
+    "max_rgb_difference": 0
+  }
+]

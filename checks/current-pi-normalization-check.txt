@@ -1,0 +1,14 @@
+{
+  "determinant": {
+    "count": 12,
+    "max_relative_error": 3.0742075551870585e-13
+  },
+  "pi_kernels": {
+    "count": 12,
+    "max_relative_error": 3.999023334699814e-13
+  },
+  "normalization": {
+    "count": 3,
+    "max_relative_error": 4.2453445162626835e-05
+  }
+}

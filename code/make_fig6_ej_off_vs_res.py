@@ -29,8 +29,12 @@ def EGS_of(m):
 # 严格可比较：同 (L_M, t⊥, φ, Γ)，只改 detuning μ_M
 m_off = KitaevSNS(L_N=5, mu_N=0.3, mu_SC=0.0, t_perp=0.1, Gamma=0.1, phi=phi, Delta=0.6, t=1.0)
 m_res = KitaevSNS(L_N=5, mu_N=0.0, mu_SC=0.0, t_perp=0.1, Gamma=0.1, phi=phi, Delta=0.6, t=1.0)
-E_off = EGS_of(m_off) - EGS_of(m_off)[0]
-E_res = EGS_of(m_res) - EGS_of(m_res)[0]
+# Use the phase-zero reference stated in the manuscript caption.
+zero = int(np.argmin(np.abs(ths)))
+assert abs(ths[zero]) < 1e-12
+raw_off, raw_res = EGS_of(m_off), EGS_of(m_res)
+E_off = raw_off - raw_off[zero]
+E_res = raw_res - raw_res[zero]
 
 fig, ax = plt.subplots(figsize=(8, 5.2))
 ax.plot(ths / np.pi, E_off, 'b-', lw=2, label='off-resonant ($\\mu_{\\rm M}=0.3$): $\\pi$-type')

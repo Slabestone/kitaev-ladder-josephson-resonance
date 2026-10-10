@@ -1,0 +1,1 @@
+Independent 8-dimensional projection: 30 cases; max error 4.218847493575595e-15

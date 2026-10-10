@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "scope": "selected code and numerical resources, not a complete original simulation archive",
   "files": [
     {
@@ -110,7 +110,50 @@
     "made fingerprint failure return nonzero",
     "routed three plot exports to generated/",
     "evaluated particle-hole exchange as an equivalent permutation and required its health check to pass",
-    "corrected diagnostic Fourier normalization to 1/pi over 0..2pi, removing an extra factor 2; phase classification and Hamiltonians unchanged"
+    "corrected diagnostic Fourier normalization to 1/pi over 0..2pi, removing an extra factor 2; phase classification and Hamiltonians unchanged",
+    "updated current seven-figure mapping and enlarged-font figure exports",
+    "corrected energy plot reference from theta=-pi to theta=0 (constant energy shift only)",
+    "added portable symbolic and finite-BdG verification scripts",
+    "added cached raw energy curves and combined Fig.4 arrays"
   ],
-  "hamiltonian_formulas_and_physical_parameters_changed": false
+  "hamiltonian_formulas_and_physical_parameters_changed": false,
+  "release": "submission-2026-10-10",
+  "manuscript_source_sha256": "fb8549fec1eaab6eb2d3c36a5ba4cbee9575579dced4df7028df5527ce4b7377",
+  "current_figures": [
+    {
+      "file": "figures/SIS_junction1.png",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "b60caa31396bbe0f86cddc0243fb2ce5b903233eb3fbf90192d4c18caab871f0"
+    },
+    {
+      "file": "figures/fig2_phases_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "eeb046e43a3cbe26761d4790b92e333252f4b29d76629b52222b9023359f6a1e"
+    },
+    {
+      "file": "figures/fig3_off_cpr_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "009252d9e8e40fcfee02255726de4d736963eb2d08788716dab79cb1b7db6199"
+    },
+    {
+      "file": "figures/fig4_resonance_energy_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "3f326038e7fad2ec74e5e609b3f795a79396eb1c255e12af8c089ce1857caa15"
+    },
+    {
+      "file": "figures/fig5_clamping_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "29ef16ae51b71107faf1d3515f15297bc33ee5d621143d4eb6c940125815d8f8"
+    },
+    {
+      "file": "figures/fig6_topology_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "6f647fca80ace78479855149eaee3088247e0ae2449c40d40e4ef0290312fa82"
+    },
+    {
+      "file": "figures/fig7_res_cpr_largefont.pdf",
+      "source": "current v6 manuscript figure export",
+      "source_sha256": "32c48bc4701c3d74b1d2c23b64742ce786b2100c3ca3d7491f5221139e70fb8d"
+    }
+  ]
 }
